@@ -1,0 +1,6 @@
+.foto-perfil { 
+    height: 100%;
+    width: 200px;
+    max-width: 100%;
+    border-radius: 50%; /*Deixar a borda arredondada*/
+}
